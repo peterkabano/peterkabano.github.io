@@ -767,130 +767,130 @@ function fnc_project_color(values, context) {
 
 
 function exp_LocalClimateZones_1rule0_eval_expression(context) {
-    // "Name" = '102.000000000000000'
+    // "LCZ_code" = '102.000000000000000'
 
     var feature = context.feature;
     
     if (feature.properties) {
-        return (feature.get('Name')  == '102.000000000000000');
+        return (feature.get('LCZ_code')  == '102.000000000000000');
     } else {
-        return (feature.get('Name')  == '102.000000000000000');
+        return (feature.get('LCZ_code')  == '102.000000000000000');
     }
 }
 
 
 function exp_LocalClimateZones_1rule1_eval_expression(context) {
-    // "Name" = '104.000000000000000'
+    // "LCZ_code" = '104.000000000000000'
 
     var feature = context.feature;
     
     if (feature.properties) {
-        return (feature.get('Name')  == '104.000000000000000');
+        return (feature.get('LCZ_code')  == '104.000000000000000');
     } else {
-        return (feature.get('Name')  == '104.000000000000000');
+        return (feature.get('LCZ_code')  == '104.000000000000000');
     }
 }
 
 
 function exp_LocalClimateZones_1rule2_eval_expression(context) {
-    // "Name" = '106.000000000000000'
+    // "LCZ_code" = '106.000000000000000'
 
     var feature = context.feature;
     
     if (feature.properties) {
-        return (feature.get('Name')  == '106.000000000000000');
+        return (feature.get('LCZ_code')  == '106.000000000000000');
     } else {
-        return (feature.get('Name')  == '106.000000000000000');
+        return (feature.get('LCZ_code')  == '106.000000000000000');
     }
 }
 
 
 function exp_LocalClimateZones_1rule3_eval_expression(context) {
-    // "Name" = '2.000000000000000'
+    // "LCZ_code" = '2.000000000000000'
 
     var feature = context.feature;
     
     if (feature.properties) {
-        return (feature.get('Name')  == '2.000000000000000');
+        return (feature.get('LCZ_code')  == '2.000000000000000');
     } else {
-        return (feature.get('Name')  == '2.000000000000000');
+        return (feature.get('LCZ_code')  == '2.000000000000000');
     }
 }
 
 
 function exp_LocalClimateZones_1rule4_eval_expression(context) {
-    // "Name" = '3.000000000000000'
+    // "LCZ_code" = '3.000000000000000'
 
     var feature = context.feature;
     
     if (feature.properties) {
-        return (feature.get('Name')  == '3.000000000000000');
+        return (feature.get('LCZ_code')  == '3.000000000000000');
     } else {
-        return (feature.get('Name')  == '3.000000000000000');
+        return (feature.get('LCZ_code')  == '3.000000000000000');
     }
 }
 
 
 function exp_LocalClimateZones_1rule5_eval_expression(context) {
-    // "Name" = '5.000000000000000'
+    // "LCZ_code" = '5.000000000000000'
 
     var feature = context.feature;
     
     if (feature.properties) {
-        return (feature.get('Name')  == '5.000000000000000');
+        return (feature.get('LCZ_code')  == '5.000000000000000');
     } else {
-        return (feature.get('Name')  == '5.000000000000000');
+        return (feature.get('LCZ_code')  == '5.000000000000000');
     }
 }
 
 
 function exp_LocalClimateZones_1rule6_eval_expression(context) {
-    // "Name" = '6.000000000000000'
+    // "LCZ_code" = '6.000000000000000'
 
     var feature = context.feature;
     
     if (feature.properties) {
-        return (feature.get('Name')  == '6.000000000000000');
+        return (feature.get('LCZ_code')  == '6.000000000000000');
     } else {
-        return (feature.get('Name')  == '6.000000000000000');
+        return (feature.get('LCZ_code')  == '6.000000000000000');
     }
 }
 
 
 function exp_LocalClimateZones_1rule7_eval_expression(context) {
-    // "Name" = '7.000000000000000'
+    // "LCZ_code" = '7.000000000000000'
 
     var feature = context.feature;
     
     if (feature.properties) {
-        return (feature.get('Name')  == '7.000000000000000');
+        return (feature.get('LCZ_code')  == '7.000000000000000');
     } else {
-        return (feature.get('Name')  == '7.000000000000000');
+        return (feature.get('LCZ_code')  == '7.000000000000000');
     }
 }
 
 
 function exp_LocalClimateZones_1rule8_eval_expression(context) {
-    // "Name" = '8.000000000000000'
+    // "LCZ_code" = '8.000000000000000'
 
     var feature = context.feature;
     
     if (feature.properties) {
-        return (feature.get('Name')  == '8.000000000000000');
+        return (feature.get('LCZ_code')  == '8.000000000000000');
     } else {
-        return (feature.get('Name')  == '8.000000000000000');
+        return (feature.get('LCZ_code')  == '8.000000000000000');
     }
 }
 
 
 function exp_LocalClimateZones_1rule9_eval_expression(context) {
-    // "Name" = '9.000000000000000'
+    // "LCZ_code" = '9.000000000000000'
 
     var feature = context.feature;
     
     if (feature.properties) {
-        return (feature.get('Name')  == '9.000000000000000');
+        return (feature.get('LCZ_code')  == '9.000000000000000');
     } else {
-        return (feature.get('Name')  == '9.000000000000000');
+        return (feature.get('LCZ_code')  == '9.000000000000000');
     }
 }
